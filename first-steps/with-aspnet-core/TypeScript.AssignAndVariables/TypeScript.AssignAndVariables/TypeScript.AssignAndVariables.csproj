@@ -38,7 +38,7 @@
     <TypeScriptRemoveComments>False</TypeScriptRemoveComments>
     <TypeScriptOutFile />
     <TypeScriptOutDir>C:\Users\evan\source\repos\formation-typescript-discover\first-steps\with-aspnet-core\TypeScript.AssignAndVariables\TypeScript.AssignAndVariables\wwwroot\js</TypeScriptOutDir>
-    <TypeScriptGeneratesDeclarations>False</TypeScriptGeneratesDeclarations>
+    <TypeScriptGeneratesDeclarations>True</TypeScriptGeneratesDeclarations>
     <TypeScriptNoEmitOnError>True</TypeScriptNoEmitOnError>
     <TypeScriptSourceMap>True</TypeScriptSourceMap>
     <TypeScriptMapRoot>C:\Users\evan\source\repos\formation-typescript-discover\first-steps\with-aspnet-core\TypeScript.AssignAndVariables\TypeScript.AssignAndVariables\scripts</TypeScriptMapRoot>
