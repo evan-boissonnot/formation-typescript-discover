@@ -1,0 +1,3 @@
+﻿class Elfe {
+    name: string;
+}
